@@ -102,17 +102,6 @@ Le programme lit une grille depuis un fichier externe, valide la grille, puis af
 - [x] Vérification de la validité initiale
 - [x] Implémentation de l'algorithme de backtracking
 
-<!-- CONTRIBUTING -->
-## Contribuer
-
-Les contributions sont les bienvenues !
-
-1. Fork le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
-
 <!-- LICENSE -->
 ## Licence
 
